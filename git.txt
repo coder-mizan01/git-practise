@@ -1,7 +1,7 @@
 Hi I am a young developer , i am trying to learn coding . 
 I wish i will get a job of web development.
-I will learn Blockchain after web development and cybersecurity
-I have edited this form github.com
-i will success
-logo alignment is centered
-My Name is Mizanur Rahman Sazu(fantastic)
+I will learn Blockchain after web development
+I have edited this form github.com.
+This line is added for merge 
+I will try untill i merge
+
